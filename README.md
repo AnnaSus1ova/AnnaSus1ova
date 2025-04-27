@@ -7,7 +7,7 @@ C++, QT, HTML, CSS, JavaScript, Git, Figma, 3D-modeling, SQL, Python:
 - Matplotlib
 - Pandas
 - Numpy
-- Olympaid programming
+- Olympiad programming
 - Object-oriented programming
 - Algorithms and data structures
   
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Other popular Github sections
-🌱 I’m currently learning asynchronous and multithreaded programming
+🌱 I’m currently learning asynchronous, multithreaded programming and Docker
 
 💬 Ask me about anything, I will be interested in discussing the nuances of development with colleagues
 
